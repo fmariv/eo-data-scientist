@@ -1,14 +1,9 @@
-# Earth Observation Data Scientist
+# Flooding impact assessment with Jupyter Notebooks
 
-The objective of this test is to evaluate the candidate’s ability at Data Science
-project management and developement, working with Python and Geospatial
-data, and their communication skills to a non technical audience.
+In this example use case, we are asked to build a Python Notebook to assess the impact of floodings during the Gloria storm (Januray 15th-25th, 2020) in the municipality of Tordera, which is located along the Tordera river (Catalonia, Spain).
 
-## Python Notebook
-The Python Notebook can be found at `eo-data-scientist.ipynb`.
+We are going to calculate the following analytics:
 
-## Slide deck
-The slide deck that assess the impact of floodings during the Gloria storm can be found at `gloria_evaluation.pdf`.
-
-## Data
-The data used in this test can be found at `data/data.zip`
+- Number of square kilometers affected by the flooding.
+- The affected population.
+- The affected roads.
